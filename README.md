@@ -4,7 +4,7 @@ A Smart Application that recommend products based on user preferences.
 
 ## 🔗 Links
 
-- [Project Design and Planning](https://github.com/ IBM-EPBL /IBM-Project-15386-1659598110 /tree/main/Project%20Design%20%26%20Planning)
+- [Project Design and Planning](https://github.com/IBM-EPBL/IBM-Project-15386-1659598110/tree/main/Project%20Design%20%26%20Planning)
 
 - Assignments
    - [Kirthivasan](https://github.com/IBM-EPBL/IBM-Project-15386-1659598110/tree/main/Assignments/Kirthivasan%20PN)
