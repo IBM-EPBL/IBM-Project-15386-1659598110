@@ -30,7 +30,7 @@ PNT2022TMID00109
 
 ## TEAM MEMBERS
 
-- [Lokesh U] Team Leader
-- [Kirthivasan PN] Team Member 1 
-- [Praveen N] Team Member 2
-- [Praveen kumar S]Team Member 3 
+- Lokesh U        Team Leader
+- Kirthivasan PN  Team Member 1 
+- Praveen N       Team Member 2
+- Praveen kumar S Team Member 3 
